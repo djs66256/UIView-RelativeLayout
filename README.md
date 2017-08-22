@@ -3,7 +3,9 @@ UIView-RelativeLayout
 
 IOS layout like android
 
+这是完全基于`Frame`的布局，旨在简化平时的布局计算，用描述性语言代替繁琐的计算逻辑，使开发维护成本降低，最好能够放在`layoutSubview`中使用。
 
+如果想要使用`AutoLayout`，请使用`Masonry`, `PureLayout`, `SnapKit`这样的开源库。
 
 The MIT License (MIT)
 
